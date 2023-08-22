@@ -11,3 +11,8 @@ Bluesky social network Graph
 - Kafka producer / consumer bluesky
 - Neo4j (instance / Kuberenetes)
 - Neo4j <-> Kafka
+
+## References
+
+- [AT Protocol (Bluesky) event stream](https://atproto.com/specs/event-stream)
+- [Bluesky - bidouilles & co](https://gitlab.com/raclepoulpe/bsky)
